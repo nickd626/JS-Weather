@@ -1,3 +1,5 @@
+let key = '616642a1049c712a25245460c9cd38e3';
+
 let result = document.getElementById("result");
 
 let searchBtn = document.getElementById("search-btn");
